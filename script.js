@@ -64,7 +64,7 @@ const seed = {
             name: "A.Sai Ganesh",
             roll: "24B81A6739",
             clubs: [1, 4]
-        }
+        },
         {
             id: 6,
             name: "Sai Krishna",

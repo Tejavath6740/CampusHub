@@ -63,13 +63,13 @@ const seed = {
             id: 5,
             name: "A.Sai Ganesh",
             roll: "24B81A6739",
-            clubs: [1, 4]
+            clubs: [4]
         },
         {
             id: 6,
             name: "Sai Krishna",
             roll: "24B81A6740",
-            clubs: [2, 4]
+            clubs: [3]
         },
         {
             id: 7,
@@ -81,19 +81,19 @@ const seed = {
             id: 8,
             name: "Sai Srineesh",
             roll: "24B81A6743",
-            clubs: [1]
+            clubs: [1,3]
         },
                    {
             id: 9,
             name: "Sai Sujith",
             roll: "24B81A6744",
-            clubs: [3,3]
+            clubs: [2,3]
         },
                               {
             id: 10,
             name: "Sai Varshith",
             roll: "24B81A6745",
-            clubs: [3,3]
+            clubs: [1]
         }
     ],
 

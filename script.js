@@ -35,23 +35,65 @@ const seed = {
     ],
 
     members: [
-        {
-            id: 5,
-            name: "Sai Krishna",
-            roll: "21B81A0501",
+               {
+            id: 1,
+            name: "Ram charan",
+            roll: "24B81A6731",
             clubs: [1, 4]
         },
+               {
+            id: 2,
+            name: "Revath",
+            roll: "24B81A6732",
+            clubs: [2, 4]
+        },
+               {
+            id: 3,
+            name: "Ruthvik",
+            roll: "24B81A6734",
+            clubs: [3, 4]
+        },
+               {
+            id: 4,
+            name: "Sai Ganesh",
+            roll: "24B81A6738",
+            clubs: [4, 4]
+        },
+               {
+            id: 5,
+            name: "A.Sai Ganesh",
+            roll: "24B81A6739",
+            clubs: [1, 4]
+        }
         {
             id: 6,
-            name: "Ananya Rao",
-            roll: "21B81A0512",
-            clubs: [2, 3]
+            name: "Sai Krishna",
+            roll: "24B81A6740",
+            clubs: [2, 4]
         },
         {
             id: 7,
-            name: "Rahul Verma",
-            roll: "21B81A0533",
+            name: "Sai Rohith",
+            roll: "24B81A6742",
+            clubs: [3, 3]
+        },
+        {
+            id: 8,
+            name: "Sai Srineesh",
+            roll: "24B81A6743",
             clubs: [1]
+        },
+                   {
+            id: 9,
+            name: "Sai Sujith",
+            roll: "24B81A6744",
+            clubs: [3,3]
+        },
+                              {
+            id: 10,
+            name: "Sai Varshith",
+            roll: "24B81A6745",
+            clubs: [3,3]
         }
     ],
 

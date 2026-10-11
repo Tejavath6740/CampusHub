@@ -43,7 +43,7 @@ const seed = {
         },
                {
             id: 2,
-            name: "Revath",
+            name: "Revanth",
             roll: "24B81A6732",
             clubs: [2, 4]
         },
